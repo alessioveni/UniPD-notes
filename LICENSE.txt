@@ -1,0 +1,40 @@
+LICENZA D'USO PERSONALE / PERSONAL USE LICENSE
+=============================================
+
+Autore / Author: Alessio Veni
+
+Data di prima pubblicazione: 2 Giugno 2025
+
+---
+
+🇮🇹 LICENZA IN ITALIANO
+
+Tutti i documenti e i file presenti in questa repository sono stati creati dall'autore e sono protetti da copyright.
+
+NON è consentito:
+- Copiare, modificare o distribuire, in parte o per intero, i contenuti di questa repository senza autorizzazione scritta dell'autore
+- Rimuovere o alterare il nome dell'autore
+- Utilizzare questi materiali per fini commerciali
+
+È consentito:
+- Utilizzare i materiali **esclusivamente per studio personale**
+- Citare parti dei documenti, **a patto che venga sempre indicato l'autore**
+
+Per richieste di utilizzo, scrivere a: veni.alessio.business@gmail.com
+
+---
+
+🇬🇧 LICENSE IN ENGLISH
+
+All documents and files in this repository were created by the author and are protected by copyright.
+
+You are NOT allowed to:
+- Copy, modify or redistribute any part of this content without written permission from the author
+- Remove or alter the author's name
+- Use these materials for commercial purposes
+
+You ARE allowed to:
+- Use the materials **strictly for personal study**
+- Quote parts of the documents, **as long as the author is clearly credited**
+
+For usage requests, please contact: veni.alessio.business@gmail.com

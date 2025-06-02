@@ -9,7 +9,18 @@ Data di prima pubblicazione: 2 Giugno 2025
 
 🇮🇹 LICENZA IN ITALIANO
 
-Tutti i documenti e i file presenti in questa repository sono stati creati dall'autore e sono protetti da copyright.
+Tutti i documenti e i file presenti in questa repository sono rielaborati dall'autore e sono protetti da copyright.
+
+AVVISO AGGIUNTIVO SUI MATERIALI DIDATTICI
+
+Alcuni documenti presenti in questa repository derivano (in parte) da slide e materiali ufficiali forniti dai docenti dell'Università di Padova.
+
+Tali contenuti sono stati rielaborati o riassunti esclusivamente per uso accademico e personale.  
+Gli autori originali mantengono tutti i diritti d'autore sui materiali di partenza.
+
+Non è consentita la ridistribuzione dei contenuti originali o derivati senza apposita autorizzazione.  
+Questa repository non intende violare alcun diritto di proprietà intellettuale.
+
 
 NON è consentito:
 - Copiare, modificare o distribuire, in parte o per intero, i contenuti di questa repository senza autorizzazione scritta dell'autore
@@ -22,11 +33,27 @@ NON è consentito:
 
 Per richieste di utilizzo, scrivere a: veni.alessio.business@gmail.com
 
+📢 USO DIDATTICO
+
+🇮🇹 Tutti i materiali contenuti in questa repository sono distribuiti solo per fini didattici e di studio personale.  
+La condivisione è gratuita e non finalizzata alla vendita o ad altri scopi commerciali.  
+Ogni utilizzo deve rispettare questa finalità educativa.
+
 ---
 
 🇬🇧 LICENSE IN ENGLISH
 
-All documents and files in this repository were created by the author and are protected by copyright.
+All documents and files in this repository were reworked by the author and are protected by copyright.
+
+ADDITIONAL NOTICE ON LECTURE MATERIALS
+
+Some documents in this repository are derived (in part) from official course slides and materials provided by professors at the University of Padua.
+
+These materials have been reworked or summarized solely for personal academic use.  
+The original authors retain full copyright on the source material.
+
+No redistribution of the original or derived content is allowed without proper permission.  
+This repository does not intend to infringe on any intellectual property rights.
 
 You are NOT allowed to:
 - Copy, modify or redistribute any part of this content without written permission from the author
@@ -38,3 +65,9 @@ You ARE allowed to:
 - Quote parts of the documents, **as long as the author is clearly credited**
 
 For usage requests, please contact: veni.alessio.business@gmail.com
+
+📢 EDUCATIONAL USE NOTICE
+
+🇬🇧 All materials in this repository are provided solely for educational and personal study purposes.  
+They are shared free of charge and are not intended for sale or any commercial purpose.  
+Any use must comply with this educational intent.
